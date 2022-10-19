@@ -23,7 +23,7 @@ Akram Akbar Amin
 + Sistem Rantai Membentang - Materinya susah untuk dipahami
 
 
-## materi yang sudah dipami
+## materi yang sudah dipahami
 + Basic Python
 + Rekursif
 + Grafik, Module, Function
