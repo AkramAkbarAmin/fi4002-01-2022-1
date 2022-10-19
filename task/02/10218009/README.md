@@ -1,25 +1,43 @@
-# 1021XABC
-NamaLengkap
+# 10218009
+Akram Akbar Amin
 
 
 ## materi sebelumnya
-+ Tuliskan materi-materi sebelumnya yang telah diberikan dalam kuliah ini.
++ Basic Python
++ Rekursif
++ Grafik, Module, Function
++ Lorenz
++ Grafik Metode Euler
++ Predator-prey
++ Pegas Teredam
++ Bandul Pegas
++ Monte Carlo
++ Discrete Fourier Transform
++ Sistem Rantai Membentang
 
 
 ## materi paling menarik
-+ Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
-
++ Grafik Metode Euler dan Runge Kutta orde 4 - Pengaplikasian materinya dapat menyelesaikan berbagai problem fisis
 
 ## materi paling membosankan
-+ Tuliskan materi yang telah diberikan yang paling membosankan dan jelaskan alasannya.
++ Sistem Rantai Membentang - Materinya susah untuk dipahami
 
 
 ## materi yang sudah dipami
-+ Tuliskan materi-materi yang telah dipahami.
++ Basic Python
++ Rekursif
++ Grafik, Module, Function
++ Lorenz
++ Grafik Metode Euler
++ Predator-prey
++ Pegas Teredam
++ Bandul Pegas
++ Monte Carlo
 
 
 ## materi yang belum dipahami
-+ Tuliskan materi-materi yang masih belum dipahami dan bagian mana yang belum serta ingin dipahami.
++ Discrete Fourier Transform
++ Sistem Rantai Membentang
 
 
 ## contoh program
