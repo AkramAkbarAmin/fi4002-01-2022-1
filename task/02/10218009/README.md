@@ -135,7 +135,7 @@ plt.show()
 
 Hasilnya adalah
 
-!(https://github.com/AkramAkbarAmin/fi4002-01-2022-1/blob/main/task/02/10218009/Pers%20panas%202D.png)
+![alt text](https://github.com/AkramAkbarAmin/fi4002-01-2022-1/blob/main/task/02/10218009/Pers%20panas%202D.png)
 ```
 
 
