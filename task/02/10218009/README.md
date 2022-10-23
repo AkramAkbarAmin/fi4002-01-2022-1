@@ -141,7 +141,7 @@ Hasilnya adalah
 
 ## cara perkuliahan
 + Tuliskan pendapat Anda mengenai cara perkuliahan selama ini dan cantumkan usulan untuk perkuliahan setelah UTS.
-
+Metode pembelajaran sudah baik dilakukan, namun pada beberapa materi tidak terdapat diskusi hanya satu arah dari dosen ke mahasiswa saja. Saran saya untuk perkuliahan setelah UTS lebih banyak diskusi sehingga tercipta interaksi yang baik antara mahasiswa dan dosen.
 
 ## topik sistem fisis
 + Tuliskan sistem fisis yang menarik bagi Anda untuk dikaji lebih dalam dan jelaskan alasannya mengapa.
